@@ -45,5 +45,5 @@
 ### 🐍 Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/suyog-basnet/suyog-basnet/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
+  <img src="https://github.com/suyog-basnet/suyog-basnet/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
 </p>
