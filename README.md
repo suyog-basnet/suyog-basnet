@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, REST APIs, PostgreSQL, academic CS**
 
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: bsuyog34@gmail.com
 
 - ⚡ Fun fact: I enjoy debugging more than writing new code sometimes 😄
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats (Dark Mode):
+### 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyog-basnet&show_icons=true&theme=radical" />
@@ -42,6 +42,8 @@
 
 ---
 
-### 🐍 Contribution Snake (Dark Mode)
+### 🐍 Contribution Snake:
 
-![GitHub Snake dark](https://github.com/suyog-basnet/suyog-basnet/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/suyog-basnet/suyog-basnet/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
+</p>
