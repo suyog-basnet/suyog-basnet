@@ -23,10 +23,13 @@ jobs:
             ./dist/github-contribution-grid-snake.svg
             ./dist/github-contribution-grid-snake-dark.svg
 
+      - name: Fix dark mode grid background to black
+        run: |
+          sed -i 's/fill="#ebedf0"/fill="#000000"/g' ./dist/github-contribution-grid-snake-dark.svg
+
       - name: Deploy Snake SVG to GitHub Pages (output branch)
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           publish_dir: ./dist
           publish_branch: output
-
