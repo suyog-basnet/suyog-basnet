@@ -42,13 +42,6 @@
 
 ---
 
-### 🧩 Pinned Projects
-
-> Pin your top projects on GitHub manually from your profile
-
----
-
 ### 🐍 Contribution Snake (Dark Mode)
 
-```md
-![snake gif](https://github.com/suyog-basnet/suyog-basnet/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](https://github.com/suyog-basnet/suyog-basnet/blob/output/github-contribution-grid-snake-dark.svg)
