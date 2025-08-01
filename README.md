@@ -44,12 +44,6 @@
 
 ---
 
-### 📌 Pinned Projects:
-
-[Add your best and latest repositories as pinned on your GitHub profile manually.]
-
----
-
 > Customize anything above to make it *your own*. Let me know if you'd like a version with dark theme or animations like snake contribution graph, or help inserting your LinkedIn or email.
 
 Would you like me to create a ready-to-paste file for you with your actual details?
