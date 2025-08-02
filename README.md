@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suyog Basnet</h1>
-<h3 align="center">A passionate developer and student from Nepal</h3>
+![Header](./github-header-image.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suyog-basnet&label=Profile%20views&color=6e40c9&style=flat" alt="suyog-basnet" />
