@@ -1,9 +1,5 @@
 ![Header](./github-header-image.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyog-basnet&label=Profile%20views&color=6e40c9&style=flat" alt="suyog-basnet" />
-</p>
-
 - 🌱 I’m currently learning **Node.js, PostgreSQL, React, DBMS, and system design**
 
 - 🔭 I’m working on: `altEco` and CS50x projects
