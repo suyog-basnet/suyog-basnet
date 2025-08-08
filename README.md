@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Node.js, PostgreSQL, React, DBMS, and system design**
 
-- 🔭 I’m working on: `altEco` and CS50x projects
+- 🔭 I’m working on: CS50x projects
 
 - 💬 Ask me about **JavaScript, REST APIs, PostgreSQL, academic CS**
 
