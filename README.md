@@ -25,8 +25,6 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=suyog-basnet&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=suyog-basnet&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suyog-basnet&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
