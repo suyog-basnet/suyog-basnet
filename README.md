@@ -146,19 +146,11 @@ A campus-connect style application built as a third-semester group project.
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=suyog-basnet&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=suyog-basnet&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB)
-
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=suyog-basnet&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7)
-
-</div>
 
 ---
 
