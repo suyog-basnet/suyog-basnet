@@ -1,38 +1,290 @@
-![Header](./github-header-image.png)
+<div align="center">
 
-- 🌱 I’m currently learning **Node.js, PostgreSQL, React, DBMS, and system design**
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suyog%20Basnet&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18)
 
-- 🔭 I’m working on: CS50x projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Node.js+%7C+PostgreSQL+%7C+React;CS50x+%7C+System+Design;Building+in+Public" alt="Typing SVG" />
 
-- 💬 Ask me about **JavaScript, REST APIs, PostgreSQL, academic CS**
+<br/>
 
-- 📫 How to reach me: bsuyog34@gmail.com
+<!-- Academic / Location -->
+![Academic](https://img.shields.io/badge/CS50x-Harvard-6D28D9?style=for-the-badge&logo=harvard&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nepal-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-- ⚡ Fun fact: I enjoy debugging more than writing new code sometimes 😄
+<br/>
 
----
+<!-- Contact buttons -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-basnet-0746681b9)
+[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuyog34@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyog-basnet)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xx.suyog__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-basnet-0746681b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bsuyog34@gmail.com)
+<br/>
 
----
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<!-- Vanity metrics -->
+![Profile Views](https://komarev.com/ghpvc/?username=suyog-basnet&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/suyog-basnet?label=Followers&style=for-the-badge&color=7C3AED)
+![Stars](https://img.shields.io/github/stars/suyog-basnet?label=Stars&style=for-the-badge&color=6D28D9)
 
----
-
-### 📈 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=suyog-basnet&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suyog-basnet&theme=darcula&hide_border=false)<br/>
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-### 🐍 Contribution Snake:
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://github.com/suyog-basnet/suyog-basnet/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
-</p>
+I'm a Computer Science student focused on full-stack engineering — building with **Node.js, PostgreSQL, React, and TypeScript**, with a growing interest in **system design** and how backend architecture decisions scale under real load. I'm currently working through **CS50x** to strengthen my CS fundamentals (algorithms, memory, data structures) alongside project-based learning.
+
+I care about writing code that's readable six months later, understanding *why* a pattern works before reaching for it, and shipping things that are actually used rather than just demoed.
+
+```yaml
+Currently:
+  strengthening: [Data Structures & Algorithms, System Design, PostgreSQL internals]
+  building: [CS50x projects, personal full-stack apps]
+open_to:
+  - Internships / entry-level SWE roles
+  - Open-source contributions
+  - Collaborations on full-stack or backend-heavy projects
+```
+
+> ⚠️ *Placeholder note: if you want an "AI/ML expertise" line in this bio, add it only once you've actually built something with it (a model, a fine-tune, an ML pipeline) — recruiters ask about the first bullet in an interview.*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Databases**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Cloud, DevOps & Tooling**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+<!-- Add Docker / AWS / GCP badges here once you've actually used them in a project -->
+
+---
+
+## 📚 Core CS Focus
+
+| Domain | Proficiency | Notes |
+|---|---|---|
+| Data Structures & Algorithms | Building | Working through CS50x + practice problems |
+| Relational Databases (PostgreSQL/MySQL) | Comfortable | Used in course & personal projects |
+| Full-Stack Web (React/Node) | Comfortable | Primary stack for personal projects |
+| System Design | Learning | Currently studying fundamentals |
+| DBMS Theory | Comfortable | Coursework-based |
+
+> *Replace this with an "AI/ML Expertise" table once you have real project experience there — a proficiency table with nothing behind it is the first thing an interviewer will probe.*
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>altEco</b> — Alternative eco-friendly product recommendation system</summary>
+<br/>
+
+| | |
+|---|---|
+| **Stack** | TypeScript |
+| **Scope** | 2nd Year / 2nd Semester coursework project |
+| **Repository** | [github.com/suyog-basnet/altEco](https://github.com/suyog-basnet/altEco) |
+
+A recommendation-style app exploring alternative, eco-friendly product suggestions, built as part of second-year coursework.
+
+> *Note: this repo is a fork of a groupmate's project — worth noting your specific contribution here, or replacing with solo work for a portfolio README.*
+
+</details>
+
+<details>
+<summary><b>KUConnect</b> — Campus connection platform</summary>
+<br/>
+
+| | |
+|---|---|
+| **Stack** | JavaScript |
+| **Scope** | 3rd semester coursework project |
+| **Repository** | [github.com/suyog-basnet/KUConnect](https://github.com/suyog-basnet/KUConnect) |
+
+A campus-connect style application built as a third-semester group project.
+
+> *Also a fork — same note as above applies.*
+
+</details>
+
+<details>
+<summary><b>[Add Project 3]</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Stack** | — |
+| **Scale** | — |
+| **Performance** | — |
+| **Security** | — |
+| **Impact** | — |
+| **Repository** | — |
+
+</details>
+
+> 💡 For a genuinely "top 1%" projects section, 2 forked class assignments won't carry it. Prioritize adding 2–3 solo, original, deployed projects — something with a live URL beats a stronger badge every time.
+
+---
+
+## 💼 Experience
+
+> *Left intentionally blank — add real roles (internships, freelance, research assistantships) here as they happen. An empty, honest section is fine; a fabricated one is a liability.*
+
+<!--
+### Job Title — Company Name
+`Month Year – Month Year`
+
+- Bullet describing scope of work
+- Bullet describing an outcome/impact
+- Skills: `Tag1` `Tag2` `Tag3`
+-->
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Pull Shark | GitHub achievement badge |
+
+</div>
+
+> *Add real hackathon placements, CS50x certificate, competitive programming milestones, etc. as you earn them.*
+
+---
+
+## 📜 Certifications
+
+> *No certifications currently listed. Once you complete something (AWS Cloud Practitioner, an NPTEL course, a Cisco cert, etc.), group badges here by provider like:*
+
+```
+[AWS Badge]   [Oracle Badge]   [NPTEL Badge]   [Cisco Badge]
+```
+
+---
+
+## 🎯 Coding Profiles
+
+> *No public competitive-programming profiles found. If you have real LeetCode/GFG/HackerRank/CodeChef accounts with actual solve counts, link them here — badges pulling live stats from an inactive or nonexistent profile look worse than no badge at all.*
+
+<!--
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_HANDLE)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_HANDLE)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HANDLE)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_HANDLE)
+-->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=suyog-basnet&theme=radical&hide_border=true&include_all_commits=false&count_private=false&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=suyog-basnet&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=suyog-basnet&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=suyog-basnet&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suyog-basnet&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E5E7EB)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/suyog-basnet/suyog-basnet/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark Mode" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - System Design fundamentals
+  - PostgreSQL internals & query optimization
+  - Data Structures & Algorithms (CS50x track)
+
+building:
+  - CS50x coursework projects
+  - Personal full-stack applications (Node.js + React)
+
+exploring:
+  - NestJS for structured backend architecture
+  - TypeScript across the stack
+
+open_to:
+  - Internship / entry-level Software Engineer roles
+  - Open-source collaboration
+  - Pair programming on full-stack projects
+```
+
+---
+
+## 🔗 Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuyog34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-basnet-0746681b9)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyog-basnet)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
+<div align="center">
+
+<i>"Debugging is twice as hard as writing the code in the first place. Write code you can debug."</i>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+
+</div>
