@@ -1,26 +1,21 @@
 <div align="center">
 
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suyog%20Basnet&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suyog%20Basnet&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Node.js+%7C+PostgreSQL+%7C+React;CS50x+%7C+System+Design;Building+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CE+Student;Node.js+%7C+PostgreSQL+%7C+React;CS50x+%7C+System+Design;Building+in+Public" alt="Typing SVG" />
 
 <br/>
 
-<!-- Academic / Location -->
 ![Academic](https://img.shields.io/badge/CS50x-Harvard-6D28D9?style=for-the-badge&logo=harvard&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Nepal-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<!-- Contact buttons -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-basnet-0746681b9)
-[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuyog34@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) -->
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyog-basnet)
 
 <br/>
 
-<!-- Vanity metrics -->
 ![Profile Views](https://komarev.com/ghpvc/?username=suyog-basnet&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/suyog-basnet?label=Followers&style=for-the-badge&color=7C3AED)
 ![Stars](https://img.shields.io/github/stars/suyog-basnet?label=Stars&style=for-the-badge&color=6D28D9)
@@ -31,7 +26,7 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student focused on full-stack engineering — building with **Node.js, PostgreSQL, React, and TypeScript**, with a growing interest in **system design** and how backend architecture decisions scale under real load. I'm currently working through **CS50x** to strengthen my CS fundamentals (algorithms, memory, data structures) alongside project-based learning.
+I'm a Computer Engineering student focused on full-stack development — building with **Node.js, PostgreSQL, React, and TypeScript**, with a growing interest in **system design** and how backend architecture decisions scale under real load. I'm currently working through **CS50x** to strengthen my CS fundamentals (algorithms, memory, data structures) alongside project-based learning.
 
 I care about writing code that's readable six months later, understanding *why* a pattern works before reaching for it, and shipping things that are actually used rather than just demoed.
 
@@ -44,8 +39,6 @@ open_to:
   - Open-source contributions
   - Collaborations on full-stack or backend-heavy projects
 ```
-
-> ⚠️ *Placeholder note: if you want an "AI/ML expertise" line in this bio, add it only once you've actually built something with it (a model, a fine-tune, an ML pipeline) — recruiters ask about the first bullet in an interview.*
 
 ---
 
@@ -81,11 +74,9 @@ open_to:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-<!-- Add Docker / AWS / GCP badges here once you've actually used them in a project -->
-
 ---
 
-## 📚 Core CS Focus
+## 📚 Core CE Focus
 
 | Domain | Proficiency | Notes |
 |---|---|---|
@@ -94,8 +85,6 @@ open_to:
 | Full-Stack Web (React/Node) | Comfortable | Primary stack for personal projects |
 | System Design | Learning | Currently studying fundamentals |
 | DBMS Theory | Comfortable | Coursework-based |
-
-> *Replace this with an "AI/ML Expertise" table once you have real project experience there — a proficiency table with nothing behind it is the first thing an interviewer will probe.*
 
 ---
 
@@ -113,8 +102,6 @@ open_to:
 
 A recommendation-style app exploring alternative, eco-friendly product suggestions, built as part of second-year coursework.
 
-> *Note: this repo is a fork of a groupmate's project — worth noting your specific contribution here, or replacing with solo work for a portfolio README.*
-
 </details>
 
 <details>
@@ -129,41 +116,7 @@ A recommendation-style app exploring alternative, eco-friendly product suggestio
 
 A campus-connect style application built as a third-semester group project.
 
-> *Also a fork — same note as above applies.*
-
 </details>
-
-<details>
-<summary><b>[Add Project 3]</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | — |
-| **Scale** | — |
-| **Performance** | — |
-| **Security** | — |
-| **Impact** | — |
-| **Repository** | — |
-
-</details>
-
-> 💡 For a genuinely "top 1%" projects section, 2 forked class assignments won't carry it. Prioritize adding 2–3 solo, original, deployed projects — something with a live URL beats a stronger badge every time.
-
----
-
-## 💼 Experience
-
-> *Left intentionally blank — add real roles (internships, freelance, research assistantships) here as they happen. An empty, honest section is fine; a fabricated one is a liability.*
-
-<!--
-### Job Title — Company Name
-`Month Year – Month Year`
-
-- Bullet describing scope of work
-- Bullet describing an outcome/impact
-- Skills: `Tag1` `Tag2` `Tag3`
--->
 
 ---
 
@@ -177,30 +130,11 @@ A campus-connect style application built as a third-semester group project.
 
 </div>
 
-> *Add real hackathon placements, CS50x certificate, competitive programming milestones, etc. as you earn them.*
-
----
-
-## 📜 Certifications
-
-> *No certifications currently listed. Once you complete something (AWS Cloud Practitioner, an NPTEL course, a Cisco cert, etc.), group badges here by provider like:*
-
-```
-[AWS Badge]   [Oracle Badge]   [NPTEL Badge]   [Cisco Badge]
-```
-
 ---
 
 ## 🎯 Coding Profiles
 
-> *No public competitive-programming profiles found. If you have real LeetCode/GFG/HackerRank/CodeChef accounts with actual solve counts, link them here — badges pulling live stats from an inactive or nonexistent profile look worse than no badge at all.*
-
-<!--
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_HANDLE)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_HANDLE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HANDLE)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_HANDLE)
--->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SlayeR1352/)
 
 ---
 
@@ -277,7 +211,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuyog34@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-basnet-0746681b9)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyog-basnet)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) -->
 
 ---
 
