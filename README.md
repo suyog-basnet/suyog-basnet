@@ -6,12 +6,12 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/CS50x-Harvard-6D28D9?style=for-the-badge&logo=harvard&logoColor=white)
+![Academic](https://img.shields.io/badge/KU-Computer%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Nepal-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://suyog-portfolio-alpha.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyog-basnet)
 
 <br/>
@@ -211,7 +211,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsuyog34@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-basnet-0746681b9)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suyog-basnet)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://suyog-portfolio-alpha.vercel.app/)
 
 ---
 
