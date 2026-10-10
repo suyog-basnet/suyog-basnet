@@ -16,7 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=suyog-basnet&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
+![Profile Views](https://https://komarev.com/ghpvc/?username=suyog-basnet&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/suyog-basnet?label=Followers&style=for-the-badge&color=7C3AED)
 ![Stars](https://img.shields.io/github/stars/suyog-basnet?label=Stars&style=for-the-badge&color=6D28D9)
 
